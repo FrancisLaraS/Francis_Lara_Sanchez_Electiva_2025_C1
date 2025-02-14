@@ -1,0 +1,187 @@
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\DELL\Desktop\Proyecto 1 Kicad\Proyecto 1 Kicad\Proyecto 1 Kicad-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
